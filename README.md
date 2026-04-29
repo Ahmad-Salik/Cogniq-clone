@@ -1,16 +1,130 @@
-# React + Vite
+# 🚀 Cogniq AI Homepage Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive frontend clone of the Cogniq AI homepage built using **React (Vite)** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+🔗 https://cogniq-clone-kappa.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 https://github.com/Ahmad-Salik/Cogniq-clone
+
+
+---
+
+## 📌 Features
+
+* ⚛️ Built with React (Vite)
+* 🎨 Styled using Tailwind CSS
+* 📱 Fully responsive layout
+* 🧠 Modern AI SaaS UI design
+* 📌 Fixed navigation bar with blur effect
+* 🎯 Section-based layout:
+
+  * Hero Section
+  * About Us
+  * Services
+  * Features
+  * Process
+  * Call to Action
+  * Footer
+
+---
+
+## 🛠️ Tech Stack
+
+* React (Vite)
+* Tailwind CSS
+* JavaScript (ES6+)
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+ ├── components/
+ │    ├── Navbar.jsx
+ │    ├── Hero.jsx
+ │    ├── About.jsx
+ │    ├── Services.jsx
+ │    ├── Features.jsx
+ │    ├── Process.jsx
+ │    ├── CTA.jsx
+ │    └── Footer.jsx
+ │
+ ├── assets/
+ │    └── logo.jpg
+ │
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/your-username/Cogniq-clone.git
+cd Cogniq-clone
+```
+
+### 2. Install dependencies
+
+```
+npm install
+```
+
+### 3. Run development server
+
+```
+npm run dev
+```
+
+---
+
+## 📦 Build for Production
+
+```
+npm run build
+```
+
+---
+
+## 🌍 Deployment
+
+This project is deployed using **Vercel**.
+
+---
+
+## 🎯 Objective
+
+The goal of this project was to recreate the **Cogniq AI homepage UI** with a focus on:
+
+* Clean component structure
+* Responsive design
+* Modern UI styling
+* Real-world frontend practices
+
+---
+
+## ✨ Future Improvements
+
+* Add animations (Framer Motion)
+* Improve accessibility
+* Add mobile navigation menu
+* Enhance performance optimization
+
+---
+
+## 📄 License
+
+This project is for educational purposes only.
